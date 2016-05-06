@@ -3,4 +3,12 @@
   <groupId>com.samSampleProject</groupId>
   <artifactId>samSampleProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>6.0.2</version>
+		</dependency>
+	</dependencies>
 </project>
